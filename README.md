@@ -105,6 +105,13 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
 </p>
 <br>
 <br>
+
+### Projects and Dev Stuffs! :
+<br>
+  <summary><b>⚡ Github Stats</b></summary>
+<br>
+
+
 <table align="center">
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-karn&show_icons=true&locale=en&layout=compact" alt="tushar-karn" /></td>
@@ -114,5 +121,23 @@ I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm 
         <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-karn&" alt="tushar-karn" /></td>
         <td><img align="right" height="250" width="375" alt="" src="https://github.com/AvinashAnand02/AvinashAnand02/blob/main/workbench.svg" /></td>
 
-    </tr>
 </table>
+<br>
+<summary><b>🔝 Top Repository</b></summary> 
+<br>
+
+<a href="https://github.com/tushar-karn/JAVA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tushar-karn&repo=JAVA&theme=buefy" />
+</a>
+<a href="https://github.com/tushar-karn/todobackend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tushar-karn&repo=todobackend&theme=buefy" />
+</a>
+
+<br><br> <br> 
+<p>
+  <a href="https://github.com/tushar-karn">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-karn&theme=default&border_color=black&bg_color=white&title_color=black&icon_color=black" alt="Tushar's GitHub Contribution"/>
+  </a>
+</p>
+
+
