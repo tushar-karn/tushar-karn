@@ -97,3 +97,12 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
 </p>
+<br>
+<br>
+<table align="center">
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-karn&show_icons=true&locale=en&layout=compact" alt="tushar-karn" /></td>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=tushar-karn&show_icons=true&locale=en" alt="tushar-karn" /></td>
+        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-karn&" alt="tushar-karn" /></td>
+    </tr>
+</table>
