@@ -17,6 +17,12 @@
         <a href="mailto:tusharkarn@example.com"><img align="center" src="https://i.pinimg.com/564x/ed/07/d0/ed07d0a624143e28db8a98526043dc58.jpg" alt="tusharkarn@example.com" height="30" width="40" /></a>
 </p>
 
+
+### Glad to see you here!
+
+I'm pursuing B-Tech 🎓 from <b> Lovely Professional University </b> 🏫. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+
 ## About me
 
 - ✨ Creating bugs since 2019
@@ -103,6 +109,10 @@
     <tr>
         <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-karn&show_icons=true&locale=en&layout=compact" alt="tushar-karn" /></td>
         <td><img src="https://github-readme-stats.vercel.app/api?username=tushar-karn&show_icons=true&locale=en" alt="tushar-karn" /></td>
+    </tr>
+    <tr>
         <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-karn&" alt="tushar-karn" /></td>
+        <td><img align="right" height="250" width="375" alt="" src="https://github.com/AvinashAnand02/AvinashAnand02/blob/main/workbench.svg" /></td>
+
     </tr>
 </table>
