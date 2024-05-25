@@ -3,12 +3,18 @@
 <h1 align="center">Hi 👋, I'm Tushar Karn</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar-karn&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-karn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tushar-karn&label=Profile%20views&color=0e75b6&style=flat" alt="tushar-karn" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/tusharkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tusharkarn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tusharkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharkarn" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+    <a href="https://dev.to/tusharkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tusharkarn" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/tusharkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharkarn" height="30" width="40" /></a>
+    <a href="https://twitter.com/tusharkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tusharkarn" height="30" width="40" /></a>
+    <a href="https://facebook.com/tusharkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tusharkarn" height="30" width="40" /></a>
+    <a href="https://instagram.com/tusharkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tusharkarn" height="30" width="40" /></a>
+    <a href="https://medium.com/@tusharkarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tusharkarn" height="30" width="40" /></a>
+        <a href="mailto:tusharkarn@example.com"><img align="center" src="https://i.pinimg.com/564x/ed/07/d0/ed07d0a624143e28db8a98526043dc58.jpg" alt="tusharkarn@example.com" height="30" width="40" /></a>
 </p>
 
 ## About me
